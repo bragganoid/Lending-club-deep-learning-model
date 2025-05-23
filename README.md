@@ -164,11 +164,4 @@ Output Layer (Sigmoid Activation)
 
 ---
 
-## 📬 Contact
 
-**Your Name**
-[LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:your.email@example.com)
-
----
-
-Let me know if you want this exported as a `.md` file or want help adding screenshots/plots to the README!
