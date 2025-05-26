@@ -1,6 +1,4 @@
-# Lending-club-deep-learning-model
-This is a schematic that will build a model that will predict whether a loan will be defaulted
-Here's a GitHub-ready `README.md` file for your **Lending Club Loan Data Analysis** deep learning project. It includes a clear structure, project objectives, technical steps, and schematics revealing your deep learning workflow.
+
 
 ---
 
