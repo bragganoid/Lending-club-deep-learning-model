@@ -131,7 +131,7 @@ Output Layer (Sigmoid Activation)
 
 ---
 
-## 📈 Key Outcomes
+# 📈 Key Outcomes
 
 * Built and validated a deep learning model to predict loan defaults.
 * Addressed data imbalance and feature redundancy.
